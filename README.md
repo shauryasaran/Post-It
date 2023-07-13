@@ -1,5 +1,4 @@
 # Post-It
-Post It
 Post It is a mobile application developed using React Native that enables users to monetize their personal tasks. The app allows users to post tasks along with a price, and other users can accept and complete those tasks. Once a task is accepted, a messaging system is created between the two users, facilitating communication.
 
 Features
